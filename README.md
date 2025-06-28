@@ -22,7 +22,6 @@ The learning process is organized into several key stages:
 1. **Mathematics for Machine Learning**
    - Linear Algebra
    - Probability and Statistics
-   - Calculus
 
 2. **Core Machine Learning**
    - Supervised and Unsupervised Learning
